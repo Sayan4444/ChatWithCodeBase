@@ -1,0 +1,4 @@
+GitPython
+langchain_community
+langchain_text_splitters
+chromadb
